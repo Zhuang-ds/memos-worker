@@ -14,7 +14,7 @@ database_name = "notes-db"
 
 [[kv_namespaces]]
 binding = "NOTES_KV"
-id = " fee440f8d5e148b8bb4412d566427838"
+id = "fee440f8d5e148b8bb4412d566427838"
 preview_id = ""
 
 [[r2_buckets]]
